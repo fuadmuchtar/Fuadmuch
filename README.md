@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fuadmuch
 - 👀 I’m interested in web development, programming, coding and gaming
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, (JavaScript)
 - 💞️ I’m looking to collaborate on web project, and learn by doing
 - 📫 How to reach me, email : tech.fuad99@gmail.com and IG : https://www.instagram.com/m.9_tr/ 
 
